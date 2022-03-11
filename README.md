@@ -1,2 +1,2 @@
 # TodoList
-viveksapate.github.io/todolist/
+https://viveksapate.github.io/TODOList/
